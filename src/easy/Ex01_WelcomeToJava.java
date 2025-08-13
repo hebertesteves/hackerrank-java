@@ -1,6 +1,6 @@
 package easy;
 
-public class WelcomeToJava {
+public class Ex01_WelcomeToJava {
     // O nome da classe no HackerRank é Solution
 
     public static void main(String[] args) {
