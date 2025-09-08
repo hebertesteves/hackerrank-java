@@ -2,7 +2,7 @@ package easy;
 
 import java.util.*;
 
-public class Ex27_Java1DArray {
+public class Ex23_Java1DArray {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();

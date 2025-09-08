@@ -3,7 +3,7 @@ package easy;
 import java.util.*;
 import java.math.*;
 
-public class Ex26_JavaBigInteger {
+public class Ex22_JavaBigInteger {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
