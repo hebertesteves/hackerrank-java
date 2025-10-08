@@ -1,9 +1,8 @@
 package easy;
 
-import java.io.*;
 import java.util.*;
 
-public class Ex42_JavaExceptionHandlingTryCatch {
+public class Ex50_JavaExceptionHandlingTryCatch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {
