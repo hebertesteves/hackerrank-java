@@ -1,6 +1,6 @@
 # 💻 HackerRank Java Solutions
 
-Este repositório reúne minhas soluções para desafios do domínio **Java** no [HackerRank](https://www.hackerrank.com/domains/java), organizadas por nível de dificuldade: `easy`, `medium` e `hard`.
+Este repositório reúne minhas soluções para desafios do domínio **Java** no [HackerRank](https://www.hackerrank.com/domains/java), organizadas por nível de dificuldade: `easy` e `medium`.
 
 ---
 
